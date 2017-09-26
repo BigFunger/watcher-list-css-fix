@@ -1,6 +1,6 @@
 # watcher-list-css-fix
 
-> Plugin to allow users to resize the watch list columns
+> Plugin to allow users to apply custom styles to the watch list columns
 
 ---
 
